@@ -1,0 +1,7 @@
+768*334
+1023*479
+
+Mettre a jour le site:
+cd C:\wamp64\www\addys
+git add .
+git commit -m "descr update"
